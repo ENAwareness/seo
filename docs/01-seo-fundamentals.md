@@ -8,13 +8,15 @@
 
 <!-- How search engines crawl, index, and rank -->
 
-Meta robot tags: best practice using unique key
+**Meta robot tags:** best practice using unique key in <head>.
 
-Examples:
+_Examples_:
 
 - robots: key="robots"
 - googlebot: key="googlebot"
 - og:title: key="og:title"
+
+**Canonical tags:** Specify the preferred URL for duplicate content, helping search engines understand which version to index and rank.
 
 ## Core SEO Elements
 
