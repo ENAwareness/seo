@@ -8,7 +8,7 @@
 
 <!-- How search engines crawl, index, and rank -->
 
-**Meta robot tags:** best practice using unique key in <head>.
+**Meta robot tags:** best practice using unique key in `<head>`.
 
 _Examples_:
 
@@ -17,6 +17,13 @@ _Examples_:
 - og:title: key="og:title"
 
 **Canonical tags:** Specify the preferred URL for duplicate content, helping search engines understand which version to index and rank.
+
+**Rendering strategies**
+
+- **SSG**
+- **SSR**
+- **ISR**
+- **CSR**
 
 ## Core SEO Elements
 
