@@ -20,10 +20,10 @@ _Examples_:
 
 **Rendering strategies**
 
-- **SSG**
-- **SSR**
-- **ISR**
-- **CSR**
+- **SSG:** static site generation, great for SEO
+- **SSR:** server-side rendering, great for SEO
+- **ISR:** incremental static regeneration, combines SSG benefits with content updates, good for SEO
+- **CSR:** client side rendering, not recommended for optimal SEO
 
 ## Core SEO Elements
 
