@@ -8,6 +8,11 @@
 
 <!-- URL structure, internal linking, site architecture -->
 
+file-system routing: URL routes automatically generated based on
+file/folder structure
+dynamic routing: parameterized routes that handle variable content (e.g.,
+/blog/[slug], /product/[id])
+
 ## Page Speed Optimization
 
 Core Web Vitals: loading, interactivity, visual stability
