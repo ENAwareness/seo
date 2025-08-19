@@ -23,6 +23,12 @@ Core Web Vitals: loading, interactivity, visual stability
 
 <!-- Responsive design, mobile-first indexing -->
 
+## HTML Meta Tags
+
+**Fundamental tags**: title, description, keywords
+**Social sharing**: Open Graph (og:title, og:description, og:image)
+**Technical tags**: viewport, charset, robots
+
 ## Structured Data
 
 <!-- Schema markup, rich snippets -->
