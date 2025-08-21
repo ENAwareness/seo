@@ -16,6 +16,7 @@ dynamic routing: parameterized routes that handle variable content (e.g.,
 ## Page Speed Optimization
 
 Core Web Vitals: loading, interactivity, visual stability
+Largest Contentful Paint (LCP), First Input Delay (FID), and Cumulative Layout Shift (CLS).
 
 <!-- Performance metrics, optimization techniques -->
 
