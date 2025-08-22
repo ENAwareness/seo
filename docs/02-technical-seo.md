@@ -17,6 +17,7 @@ dynamic routing: parameterized routes that handle variable content (e.g.,
 
 Core Web Vitals: loading, interactivity, visual stability
 Largest Contentful Paint (LCP), First Input Delay (FID), and Cumulative Layout Shift (CLS).
+<small style="color: #666; font-style: italic;">Note: Benchmark against competitors in your industry. You are not competing with every perfectly optimized website in Google search, but with others ranking for your target keywords.</small>
 
 <!-- Performance metrics, optimization techniques -->
 
