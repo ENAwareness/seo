@@ -19,7 +19,7 @@ dynamic routing: parameterized routes that handle variable content (e.g.,
 **Largest Contentful Paint (LCP):** The LCP doesn't stop counting until the largest image or element is seen on-screen.
 **First Input Delay (FID):** FID happens when the browser’s main thread is performing other tasks and is unable to respond to the user’s request.
 **Cumulative Layout Shift (CLS):** Elements that shift position when new elements render to screen affect CLS.
-<small style="color: #666; font-style: italic;">Note: Benchmark against competitors in your industry. You are not competing with every perfectly optimized website in Google search, but with others ranking for your target keywords.</small>
+<small style="color: #666; font-style: italic;">Note: Benchmark against competitors in your industry. You are not competing with every perfectly optimized website in Google search, but with others ranking for your target keywords.The Google ranking impact will be the same for all pages in the good range for all Core Web Vitals, regardless of their individual Core Web Vitals scores.</small>
 
 <!-- Performance metrics, optimization techniques -->
 
